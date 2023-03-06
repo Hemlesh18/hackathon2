@@ -109,6 +109,7 @@ class Ui_JarvisUI(object):
         self.pushButton_4.setText(_translate("JarvisUI", "RUN"))
         self.label_8.setText(_translate("JarvisUI", "    DATE"))
         self.label_9.setText(_translate("JarvisUI", "      TIME"))
+        
     
     def __init__(self, path):
         self.cpath = path
