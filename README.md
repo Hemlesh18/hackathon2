@@ -1,7 +1,7 @@
 # Jarvis
 Jarvis is your personal assistant, that you can talk and ask to do some commands.
 ***
-Note: jarvis_hackathon is the main
+**Note: jarvis_hackathon is the main**
 ***
 ## Installation
 ```
