@@ -1,12 +1,37 @@
 # Jarvis
 Jarvis is your personal assistant, that you can talk and ask to do some commands.
+***
+**Note: jarvis_hackathon is the main**
+
+```
+py JARVIS.py
+```
+
+**Side Note: Use virtual environment to save space**
+
+- to create the virtual environment
+
+```
+python -m venv .venv
+```
+
+- to activate it
+```
+.\.venv\Scripts\activate
+```
+- to deactivate
+```
+deactivate
+```
+
+***
 ## Installation
 ```
 pip install -r requirements.txt
 ```
 # Table of contents
 ***
-**Some command you can ask Jarvis**
+**Some commands you can ask Jarvis**
 ***
 
 | COMMAND | RESULT |
@@ -18,7 +43,7 @@ pip install -r requirements.txt
 | hi/hello/heya/salut | Jarvis will repond to you |
 | joke | Jarvis will fetch a joke from a library |
 | date/today | It tell you the current day |
-| silence | It will make Jarvis silent itself the time you tell it |
+| silence | It will make Jarvis silent itself for the time you tell it to |
 | what is meant by {your reponse} | It will search information on Wikipedia |
 | Open GitHUB | It will open this github page |
 | open calculator/open paint/open discord/open note | It will open these apps |
