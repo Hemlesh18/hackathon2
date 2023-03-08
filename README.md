@@ -1,5 +1,5 @@
 # Jarvis
-Jarvis acts like a personal assistant that can talk and command.
+Jarvis acts like a **personal assistant** that you can **communicate to** and give different **commands**.
 ***
 **Note: jarvis_hackathon is the main**
 
