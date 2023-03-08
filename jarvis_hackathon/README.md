@@ -1,6 +1,4 @@
 # JARVIS
 **Note:**
-Use py JARVIS.py on terminal to run
-```
-**JARVIS**
-```
+Use **py JARVIS.py** on terminal to run
+
