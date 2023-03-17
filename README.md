@@ -72,6 +72,8 @@ pip install -r requirements.txt
 
 ## Lisence
 ```MIT```
-- TEAM KTSM
 
+TEAM KTSM
+
+<img width="75px" src="src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm logo."/>
 
