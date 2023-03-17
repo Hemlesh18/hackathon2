@@ -71,7 +71,7 @@ pip install -r requirements.txt
 - Martine
 
 ## Lisence
-```MIT``` **TEAM KTSM**
+```MIT``` copyright(c) **TEAM KTSM**
 
 <img width="50px" src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm logo."/>
 
