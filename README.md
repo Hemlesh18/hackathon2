@@ -71,9 +71,7 @@ pip install -r requirements.txt
 - Martine
 
 ## Lisence
-```MIT```
+```MIT``` **TEAM KTSM**
 
-TEAM KTSM
-
-<img width="75px" src="src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm logo."/>
+<img width="75px" src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/GoLand_icon.svg" alt="GoLand logo."/><img width="50px" src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ_IDEA logo."/><img width="50px" src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm logo."/><img width="50px" src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm logo."/>
 
