@@ -1,12 +1,19 @@
 # Jarvis
 Jarvis acts like a **personal assistant** that you can **communicate to** and give different **commands**.
+
+## To run code
+```
+cd jarvis-main
+```
 ***
-**Note: jarvis_hackathon is the main**
-
 ```
-py JARVIS.py
+py JARVIS.py 
 ```
-
+**`OR`**
+```
+python JARVIS.py
+```
+***
 **Side Note: Use virtual environment to save space**
 
 - to create the virtual environment
