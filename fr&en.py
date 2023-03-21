@@ -21,7 +21,7 @@
 #     response = openai.Completion.create(
 #         engine=models["en"],
 #         prompt="Detect the language of the following text:\n\n" + text + "\n\nLanguage:",
-#         max_tokens=1
+#         
 #     )
 #     language = response.choices[0].text.strip()
 #     if language == "French":
